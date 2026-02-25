@@ -1,0 +1,16 @@
+*.handout.tex
+*.pdf
+*.log
+*.aux
+*.out
+*.nav
+*.snm
+*.toc
+*.vrb
+*.fdb_latexmk
+*.fls
+_minted*/
+svg-inkscape/
+.envrc
+.direnv/
+.DS_Store
