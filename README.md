@@ -1,6 +1,8 @@
 # Exploiting Spack for MPICH's CI
 Talk given at HPSF 2026 as part of the Spack Project Meeting.
 
+[![Watch on YouTube](https://img.youtube.com/vi/MQzToRBUhQA/0.jpg)](https://www.youtube.com/watch?v=MQzToRBUhQA)
+
 https://hpsf2026.sched.com/event/2GmZK/exploiting-spack-for-mpichs-ci-ethan-wong-argonne-national-laboratory
 
 ## Description
